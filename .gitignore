@@ -1,0 +1,14 @@
+.graymatter/
+*.db
+*.log
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
