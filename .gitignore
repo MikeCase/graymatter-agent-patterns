@@ -5,6 +5,7 @@
 node_modules/
 __pycache__/
 *.pyc
+*.env
 .env
 .env.local
 .vscode/
@@ -12,3 +13,5 @@ __pycache__/
 *.swp
 *.swo
 *~
+gpat.env
+.env*
